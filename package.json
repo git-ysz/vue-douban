@@ -2,10 +2,10 @@
   "name": "vue-douban",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "nh0007 <nh0828007@gmail.com>",
+  "author": "git-ysz <976776565@qq.com>",
   "private": true,
   "scripts": {
-    "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "dev": "webpack-dev-server --open --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
     "unit": "jest --config test/unit/jest.conf.js --coverage",
     "e2e": "node test/e2e/runner.js",

@@ -1,14 +1,14 @@
 ﻿# vue-douban
 
-> A Vue.js project
+> A Vue.js project douban
 
-## 技术栈 -- 收藏出处	[https://github.com/nh0007/vue-douban.git](https://github.com/nh0007/vue-douban.git)
+## 技术栈 -- 	[转载(原作者进入)](https://github.com/nh0007/vue-douban.git)
 
 vue + vuex + vue-router + axios + webpack + ES6
 
 ## 项目运行
 
-#### 源码地址： [https://github.com/nh0007/vue-douban.git](https://github.com/nh0007/vue-douban.git)
+#### 源码地址： [https://github.com/git-ysz/vue-douban.git](https://github.com/git-ysz/vue-douban.git)
 
 #### 如何运行
 运行前请先确认电脑上已经安装好node环境
@@ -16,7 +16,7 @@ vue + vuex + vue-router + axios + webpack + ES6
  - 克隆项目到本地
 
 ```shell
-git clone https://github.com/nh0007/vue-douban.git
+git clone https://github.com/git-ysz/vue-douban.git
 ```
 
  - 进入项目根目录，在命令行运行语句安装依赖：
@@ -76,25 +76,25 @@ npm run dev
 
 ## 项目截图
 读书页：
-![bookTagContent](https://github.com/nh0007/vue-douban/raw/master/screenshot/bookTagContent.png)
+![bookTagContent](https://github.com/git-ysz/vue-douban/raw/master/screenshot/bookTagContent.png)
 
-![bookTagMoreContent](https://github.com/nh0007/vue-douban/raw/master/screenshot/bookTagMoreContent.png)
+![bookTagMoreContent](https://github.com/git-ysz/vue-douban/raw/master/screenshot/bookTagMoreContent.png)
 
-![bookTypeContent](https://github.com/nh0007/vue-douban/raw/master/screenshot/bookTypeContent.png)
+![bookTypeContent](https://github.com/git-ysz/vue-douban/raw/master/screenshot/bookTypeContent.png)
 
 电影页：
-![movieTagContent](https://github.com/nh0007/vue-douban/raw/master/screenshot/movieTagContent.png)
+![movieTagContent](https://github.com/git-ysz/vue-douban/raw/master/screenshot/movieTagContent.png)
 
-![movieTypeContent](https://github.com/nh0007/vue-douban/raw/master/screenshot/movieTypeContent.png)
+![movieTypeContent](https://github.com/git-ysz/vue-douban/raw/master/screenshot/movieTypeContent.png)
 
 音乐页：
-![musicContent](https://github.com/nh0007/vue-douban/raw/master/screenshot/musicContent.png)
+![musicContent](https://github.com/git-ysz/vue-douban/raw/master/screenshot/musicContent.png)
 
 同城活动页：
-![cityContent](https://github.com/nh0007/vue-douban/raw/master/screenshot/cityContent.png)
+![cityContent](https://github.com/git-ysz/vue-douban/raw/master/screenshot/cityContent.png)
 
 搜索页：
-![search](https://github.com/nh0007/vue-douban/raw/master/screenshot/search.png)
+![search](https://github.com/git-ysz/vue-douban/raw/master/screenshot/search.png)
 
 ## 结语
 由于工作中使用的框架并不是vue,对vue的了解也并不深入，如果项目中有出现啥问题或者更加好的实现，欢迎issue。另外，欢迎star哦。
