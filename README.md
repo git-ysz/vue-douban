@@ -1,6 +1,6 @@
 ﻿# vue-douban
 
-> A Vue.js project douban
+> A Vue.js project 豆瓣
 
 ## 技术栈 -- 	[转载(原作者进入)](https://github.com/nh0007/vue-douban.git)
 
