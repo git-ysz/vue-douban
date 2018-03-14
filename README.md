@@ -1,8 +1,8 @@
-# vue-douban
+﻿# vue-douban
 
 > A Vue.js project
 
-## 技术栈
+## 技术栈 -- 收藏出处	[https://github.com/nh0007/vue-douban.git](https://github.com/nh0007/vue-douban.git)
 
 vue + vuex + vue-router + axios + webpack + ES6
 
